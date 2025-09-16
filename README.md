@@ -1,4 +1,6 @@
-# IMAGE-TRANSFORMATIONS
+# Ex.no:4 IMAGE-TRANSFORMATIONS
+### Developed By:VINCY JOVITHA V
+### Register Number: 212223230242
   
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -41,8 +43,6 @@ Use cv2.imshow to show the image
 End the program
 
 ## Program:
-Developed By:VINCY JOVITHA V
-Register Number: 212223230242
 
 i)Image Translation
 ```
